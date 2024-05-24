@@ -9,3 +9,12 @@ Simple and clean user interface.
 Python 3.6+
 Flask
 Requests
+
+
+### Here is a quick checklist to ensure everything is working correctly:
+
+1. Run the Flask app: Ensure the terminal shows the Flask application is running without errors, which you have already confirmed.
+
+2. Navigate to the correct URL: Open a web browser and navigate to http://127.0.0.1:5000/.
+
+3. Interact with the form: Enter a city name, such as "Stillwater" or "New York", and click "Get Weather".
